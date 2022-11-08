@@ -15,7 +15,7 @@ const data =[
       "ImageURL": "https://i.pinimg.com/originals/82/8b/b3/828bb3783453b22bb9f8ff59a77658da.jpg",
       "Featured": false,
       "Release": "2009",
-      "Rating": 5
+      "Rating": 2
     },
     {
       "Director": {
@@ -33,7 +33,7 @@ const data =[
       "ImageURL": "https://i.pinimg.com/originals/0f/03/e6/0f03e6733b0cf567cc92e8e20290462f.jpg",
       "Featured": true,
       "Release": "2012",
-      "Rating": 5
+      "Rating": 4
     },
     {
       "Director": {
@@ -51,7 +51,7 @@ const data =[
       "ImageURL": "https://images-na.ssl-images-amazon.com/images/I/5100B4U4ylL._AC_.jpg",
       "Featured": true,
       "Release": "2007",
-      "Rating": 5
+      "Rating": 4
     },
     {
       "Director": {
@@ -87,7 +87,7 @@ const data =[
       "ImageURL": "https://media.vanityfair.com/photos/592592596736887ada186bcd/master/w_1600%2Cc_limit/spider-man-homecoming-SMH_DOM_Online_FNL_1SHT_3DRD3DIMX_AOJ_300dpi_01_rgb.jpg",
       "Featured": false,
       "Release": "2017",
-      "Rating": 5
+      "Rating": 1
     },
     {
       "Director": {
@@ -105,7 +105,7 @@ const data =[
       "ImageURL": "https://static.wikia.nocookie.net/harrypotter/images/a/a8/Harry_Potter_and_the_Prisoner_of_Azkaban_2.jpg",
       "Featured": false,
       "Release": "2004",
-      "Rating": 5
+      "Rating": 1
     },
     {
       "Director": {
@@ -141,7 +141,7 @@ const data =[
       "ImageURL": "https://images-na.ssl-images-amazon.com/images/I/71kvH7JJFlL._AC_SY679_.jpg",
       "Featured": false,
       "Release": "2014",
-      "Rating": 4
+      "Rating": 2
     },
     {
       "Director": {
@@ -159,7 +159,7 @@ const data =[
       "ImageURL": "https://www.themoviedb.org/t/p/original/aGsjgTNMSF0kswDx57YCVPqCivW.jpg",
       "Featured": false,
       "Release": "2008",
-      "Rating": 3.5
+      "Rating": 3
     },
     {
       "Director": {
@@ -177,7 +177,7 @@ const data =[
       "ImageURL": "https://image.posterlounge.com/images/l/1894261.jpg",
       "Featured": false,
       "Release": "1993",
-      "Rating": 3
+      "Rating": 2
     }
   ]
   export default data;
